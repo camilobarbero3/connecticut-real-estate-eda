@@ -1,6 +1,0 @@
-"0",""
-"0","# 3. Corrección de Habitaciones y Baños (Errores de tipeo en decenas)"
-"0","i_outliers_nroom <- which(df$num_rooms >= 10)"
-"0","num_rooms_old <- df$num_rooms"
-"0","df$num_rooms[i_outliers_nroom] <- df$num_rooms[i_outliers_nroom] / 10"
-"0","densidad_new_old(df$num_rooms, num_rooms_old, 'num_rooms')"

@@ -1,4 +1,0 @@
-"0","idx_cat <- which(!sapply(df, class) %in% c(""numeric"", ""integer"", 'Date'))"
-"0","df_cat <- subset(df, select = idx_cat)"
-"0","mati_cor_cat <- matriz_cramers_v(df_cat)"
-"0","mati_cor_cat"

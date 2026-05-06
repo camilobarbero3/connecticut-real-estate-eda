@@ -1,4 +1,0 @@
-"0",""
-"0","# 4. Limpieza de variables categóricas y valores en cero"
-"0","df$Property <- ifelse(df$Property == '?', NA, df$Property)"
-"0","df$Estimated.Value <- ifelse(df$Estimated.Value == 0 & !is.na(df$Estimated.Value), NA, df$Estimated.Value)"

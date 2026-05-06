@@ -1,5 +1,0 @@
-"0",""
-"0","i_outliers_nbathroom <- which(df$num_bathrooms >= 10)"
-"0","num_bathrooms_old <- df$num_bathrooms"
-"0","df$num_bathrooms[i_outliers_nbathroom] <- df$num_bathrooms[i_outliers_nbathroom] / 10"
-"0","densidad_new_old(df$num_bathrooms, num_bathrooms_old, 'num_bathrooms')"

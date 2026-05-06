@@ -1,0 +1,9 @@
+# Archivos de macOS
+.DS_Store
+
+# Archivos de R y RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai

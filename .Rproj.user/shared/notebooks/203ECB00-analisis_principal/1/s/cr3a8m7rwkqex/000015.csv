@@ -1,6 +1,0 @@
-"0",""
-"0","# 2. Corrección de la Tasa Impositiva (Error en coma decimal)"
-"0","i_outliers_ptr <- encontrar_outliers(df$property_tax_rate)"
-"0","property_tax_rate_old <- df$property_tax_rate"
-"0","df$property_tax_rate[i_outliers_ptr] <- df$property_tax_rate[i_outliers_ptr] / 10"
-"0","densidad_new_old(df$property_tax_rate, property_tax_rate_old, 'property_tax_rate')"

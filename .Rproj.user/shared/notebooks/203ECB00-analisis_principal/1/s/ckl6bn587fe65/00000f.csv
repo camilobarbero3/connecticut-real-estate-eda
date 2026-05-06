@@ -1,8 +1,0 @@
-"0","df$Date <- as.Date(df$Date, format = ""%Y-%m-%d"")"
-"0","numeric_dates <- as.numeric(df$Date)"
-"0","interpolated_dates <- na.approx(numeric_dates, na.rm = FALSE, rule=2)"
-"0","df$Date <- as.Date(interpolated_dates, origin = ""1970-01-01"")"
-"0",""
-"0","df$Year <- format(df$Date, ""%Y"")"
-"0","df$Year[is.na(df$Year)] <- format(df$Date[is.na(df$Year)], ""%Y"")"
-"0","df$Year <- as.integer(df$Year)"

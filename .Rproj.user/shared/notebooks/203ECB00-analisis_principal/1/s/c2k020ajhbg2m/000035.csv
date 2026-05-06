@@ -1,3 +1,0 @@
-"0","# Análisis exploratorio general (función auxiliar)"
-"0","eda_summary <- eda(df)"
-"0","kable(eda_summary)"
