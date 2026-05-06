@@ -1,0 +1,5 @@
+"0","# Importación de librerías y funciones desde la carpeta /scripts"
+"0","source('../scripts/librerias.R')"
+"2","Error in file(filename, ""r"", encoding = encoding) : 
+  cannot open the connection
+"

@@ -1,0 +1,6 @@
+"0",""
+"0","# 1. Corrección de la variable Year (Error de tipeo por un 0 adicional)"
+"0","i_outliers_Year <- encontrar_outliers(df$Year)"
+"0","Year_old <- df$Year"
+"0","df$Year[i_outliers_Year] <- as.numeric(substring(df$Year[i_outliers_Year], 1, nchar(df$Year[i_outliers_Year]) - 1))"
+"0","densidad_new_old(df$Year, Year_old, 'Year')"

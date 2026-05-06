@@ -1,0 +1,1 @@
+"0","df$Spread <- (df$Sale.Price/df$Estimated.Value) - 1"

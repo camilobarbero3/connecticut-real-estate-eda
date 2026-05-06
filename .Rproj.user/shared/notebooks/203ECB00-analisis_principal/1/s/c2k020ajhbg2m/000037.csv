@@ -1,0 +1,7 @@
+"0",""
+"0","# Subconjunto numérico"
+"0","idx <- which(sapply(df, class) %in% c(""numeric"",""integer""))"
+"0","df_num <- subset(df, select = idx)"
+"0",""
+"0","# Visualización de relaciones iniciales"
+"0","ggpairs(df_num)"

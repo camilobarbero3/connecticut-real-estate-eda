@@ -1,0 +1,6 @@
+"0","# Importación de librerías y funciones desde la carpeta /scripts"
+"0","source('../scripts/librerias.R')"
+"0","source('../scripts/funciones.R')"
+"0",""
+"0","# Carga de los datos desde la carpeta /data"
+"0","df <- read.csv('../data/Connecticut_realstate_tp.csv')"
