@@ -1,14 +1,7 @@
 ---
 title: "Análisis Exploratorio y de Rentabilidad: Mercado Inmobiliario en Connecticut"
-author: "Camilo"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    theme: flatly
-    highlight: tango
-    code_folding: show
+author: "Camilo Barbero"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

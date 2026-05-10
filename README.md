@@ -1,10 +1,10 @@
-# Connecticut Real Estate Market: Exploratory Data Analysis (EDA)
-
-🌍 [**Read in English**](#-english-version) \| 🌎 [**Leer en Español**](#-versión-en-español)
+[**Read in English**](#-english-version) \| [**Leer en Español**](#-versión-en-español)
 
 ------------------------------------------------------------------------
 
 ## 🇬🇧 English Version
+
+# Connecticut Real Estate Market: Exploratory Data Analysis (EDA)
 
 ### 📌 Overview
 
@@ -32,13 +32,15 @@ This project performs an in-depth Exploratory Data Analysis (EDA) and Time Serie
 ### 📂 Repository Structure
 
 - `/data`: Dataset sourced from Kaggle.
-- `/notebooks`: Contains the EDA, data cleaning, and statistical modeling code (`.Rmd` and rendered `.html`).
+- `/notebooks`: Contains the EDA, data cleaning, and statistical modeling code (`.Rmd` and `.md`).
 - `/scripts`: Auxiliary functions and library dependencies (`.R`).
 - `/report`: The comprehensive academic report detailing the statistical methods and conclusions (PDF).
 
 ------------------------------------------------------------------------
 
 ## 🇪🇸 Versión en Español
+
+# Mercado Inmobiliario de Connecticut: Análisis Exploratorio de Datos (EDA)
 
 ### 📌 Resumen
 
@@ -66,6 +68,6 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) profundo y pronó
 ### 📂 Estructura del Repositorio
 
 - `/data`: Conjunto de datos extraído de Kaggle.
-- `/notebooks`: Contiene el código de limpieza de datos, EDA y modelado estadístico (`.Rmd` y archivo `.html` renderizado).
+- `/notebooks`: Contiene el código de limpieza de datos, EDA y modelado estadístico (`.Rmd` y archivo `.md`).
 - `/scripts`: Funciones auxiliares y dependencias de librerías (`.R`).
 - `/report`: El informe académico completo detallando los métodos y conclusiones (PDF).
